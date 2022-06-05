@@ -3,7 +3,7 @@
 
 ### Team C22-PC403
 #### [Machine Learning](https://github.com/suryah-11/GlucosApp-ML):
-* M2004F0190- Paskalis Sinurat
+* M2004F0190 - Paskalis Sinurat
 * M2281G2418 - Surya Herdiansyah
 * M2012G1210 - Mohammad Aldrin Arifin
 
