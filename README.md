@@ -12,3 +12,12 @@
 
 #### [Cloud Computing](https://github.com/WAHDINAAZIZAH/CC-GlucosApp):
 * C2427F3003 - Wahdina Azizah
+
+
+### Machine Learning Documentation
+1. Download the dataset 
+2. Install all libraries needed
+3. Split the dataset into training and test datasets
+4. Create and train models
+5. Validate the model
+6. Save and convert model to tflite
